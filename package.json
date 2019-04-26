@@ -1,0 +1,23 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "Coding Dojo algorithm lectures and challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesharper/codingDojoAlgorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesharper/codingDojoAlgorithms/issues"
+  },
+  "homepage": "https://github.com/wesharper/codingDojoAlgorithms#readme",
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "jest-cli": "^22.4.3"
+  }
+}
